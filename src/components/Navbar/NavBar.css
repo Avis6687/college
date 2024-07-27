@@ -22,10 +22,11 @@ nav ul li{
 
 .dark-nav{
     background: #212EA0;
-    
 }
 
-
+.menu-icon{
+    display: none;
+}
 /* ---- media query --- */
 
 @media (max-width:1000px){
